@@ -160,7 +160,7 @@ This section contains screenshots demonstrating:
 <img width="1920" height="888" alt="Screenshot 2026-05-24 201320" src="https://github.com/user-attachments/assets/c41758eb-0518-4c15-b99f-90536651cd3f" />
 <img width="1920" height="931" alt="Screenshot 2026-05-24 201420" src="https://github.com/user-attachments/assets/b5d85844-9bce-48d7-9455-7d025f5ad430" />
 <img width="1920" height="938" alt="Screenshot 2026-05-24 201451" src="https://github.com/user-attachments/assets/3f47905c-d1d6-44c0-8888-33cd25954791" />
-<img width="1920" height="954" alt="Screenshot 2026-05-24 201612" src="https://github.com/user-attachments/assets/cbc6923a-42ce-4f57-86bf-238208f97835" />
+
 <img width="1920" height="935" alt="Screenshot 2026-05-24 202045" src="https://github.com/user-attachments/assets/a6894da7-f15c-4f3d-9cd5-44e356b0a855" />
 <img width="1920" height="935" alt="Screenshot 2026-05-24 201926" src="https://github.com/user-attachments/assets/1e4b69a1-c2f0-4d58-9d74-3d3a1096e430" />
 
